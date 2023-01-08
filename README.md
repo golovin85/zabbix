@@ -5,4 +5,4 @@ This will deploy Zabbix installation with Docker, we will use a docker-compose.y
 * The web interface
 * A monitoring agent for Zabbix server
   
-  env_vars should be edited before deployment. At a minimum, edit the .MYSQL_PASSWORD and .MYSQL_ROOT_PASSWORD files, change to a personalized password.
+ env_vars should be edited before deployment. At a minimum, edit the .MYSQL_PASSWORD and .MYSQL_ROOT_PASSWORD files, change to a personalized password.
